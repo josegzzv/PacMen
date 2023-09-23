@@ -10,8 +10,9 @@ This project implements a simplified version of a Pacmen where Pacmen moves thro
 - Pac-Man's mouth opens and closes periodically.
 - Pac-Man changes direction when hitting a wall.
 
-## Try it Online
-<a href="https://josegzzv.github.io/PacMen/PacMen/" target="_blank">Pacmen online</a>
+## Live Demo
+
+You can see a live demo of this project <a href="https://josegzzv.github.io/PacMen/PacMen/" target="_blank">Here</a>
 
 ## Screenshots
 
