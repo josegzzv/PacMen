@@ -32,7 +32,7 @@ This project implements a simplified version of a Pacmen where Pacmen moves thro
    git clone https://github.com/yourusername/pacman-game.git
    ```
 
-2. Open the folder with Visual Studio Code and run it with the Live Server extension for VSCode
+2. Open the `index.html` file in your web browser.
 3. Clic on "Add Pacman" to add one, clic "Start Game" so they start moving
 4. Enjoy
 
@@ -49,7 +49,11 @@ Here are some pending tasks and future enhancements that we plan to implement in
 
 
 If you'd like to contribute to any of these tasks or have other ideas, please let us know!
+
 <a href="https://github.com/josegzzv/PacMen">Go to Repository</a>
+
+---
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
