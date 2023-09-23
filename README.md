@@ -1,5 +1,6 @@
 # PacMen Excercise
 
+![Game](https://github.com/josegzzv/PacMen/assets/15818504/002403db-a1cc-4162-aa8a-eaee4df4e574)
 
 ## Description
 
@@ -7,12 +8,12 @@ This project implements a simplified version of a Pacmen where Pacmen moves thro
 
 ## Features
 
-- Pac-Man's mouth opens and closes periodically.
-- Pac-Man changes direction when hitting a wall.
+- Pac-Men's mouth opens and closes periodically.
+- Pac-Men changes direction when hitting a wall.
 
 ## Live Demo
 
-You can see a live demo of this project <a href="https://josegzzv.github.io/PacMen/PacMen/" target="_blank">Here</a>
+You can see a live demo of this project <a href="https://josegzzv.github.io/PacMen/PacMen/" target="_blank">here</a>
 
 ## Screenshots
 
