@@ -50,7 +50,7 @@ Here are some pending tasks and future enhancements that we plan to implement in
  - [ ] Bounce if a Pacmen colides with another Pacmen.
 
 
-If you'd like to contribute to any of these tasks or have other ideas, please let us know!
+If you'd like to contribute to any of these tasks or have other ideas, please let me know!
 
 <a href="https://github.com/josegzzv/PacMen">Go to Repository</a>
 
