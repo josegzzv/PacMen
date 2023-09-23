@@ -50,3 +50,6 @@ Here are some pending tasks and future enhancements that we plan to implement in
 
 If you'd like to contribute to any of these tasks or have other ideas, please let us know!
 <a href="https://github.com/josegzzv/PacMen">Go to Repository</a>
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
